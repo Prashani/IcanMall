@@ -12,7 +12,7 @@
       <name>class</name>
       <type>Main</type>
       <value>android.widget.TextView</value>
-      <webElementGuid>bf97aa05-e974-4363-855a-d6bd39f4fc46</webElementGuid>
+      <webElementGuid>0a0036ed-c749-4da6-bff5-e72591b0d1b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -20,7 +20,7 @@
       <name>index</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>4a8ee819-7062-4ec7-9b56-5af12e72d5aa</webElementGuid>
+      <webElementGuid>4b50b33e-94dd-4fd5-8614-63a2d8f240c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -28,7 +28,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Profile</value>
-      <webElementGuid>b3590051-1831-4eeb-b79f-936080083ec2</webElementGuid>
+      <webElementGuid>fed6180a-15f7-43a1-9339-f39f7d020bc5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -36,7 +36,7 @@
       <name>resource-id</name>
       <type>Main</type>
       <value>com.easypay.shop:id/tv_me</value>
-      <webElementGuid>6bceeecb-8d33-449a-8a9d-c2a60f828d48</webElementGuid>
+      <webElementGuid>d185e960-c1a6-46f6-bac4-23140a21613d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -44,7 +44,7 @@
       <name>package</name>
       <type>Main</type>
       <value>com.easypay.shop</value>
-      <webElementGuid>447f1efb-fa98-4079-83e6-c0f1630981f4</webElementGuid>
+      <webElementGuid>d1f9b469-28e7-472c-a959-bfd42190323e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -52,7 +52,7 @@
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>bd205641-a821-4ac7-a756-1d1cc0871c1c</webElementGuid>
+      <webElementGuid>7e569708-c2a5-4245-a61f-1d166770a17d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -60,7 +60,7 @@
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>f2842221-7cb3-4ba9-a0f9-f4ff51d5adac</webElementGuid>
+      <webElementGuid>835da092-2674-4eed-8a94-5254316273eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,7 +68,7 @@
       <name>clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>c03c9fc6-67b3-467b-8d47-bab6b885e1d0</webElementGuid>
+      <webElementGuid>6928bdce-7286-445b-8cc7-cc65e76b48c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -76,7 +76,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>f8a14080-4f2e-4e18-b306-d833fdab6158</webElementGuid>
+      <webElementGuid>546aa6ad-6d38-49b1-bda5-5d7d77c9be18</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -84,7 +84,7 @@
       <name>focusable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>98191ab7-858b-45eb-8301-4f91a5928dab</webElementGuid>
+      <webElementGuid>233ae293-dfb7-4325-9d20-ffae7102dc7b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -92,7 +92,7 @@
       <name>focused</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>c361a106-fb86-4cf4-a147-d7e30c92752f</webElementGuid>
+      <webElementGuid>a936c4c2-6e30-4ce5-a505-30248e027008</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -100,7 +100,7 @@
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>0e894067-8ddd-44a2-8a59-7e7113f9d9e3</webElementGuid>
+      <webElementGuid>48826f65-937f-4fb4-b023-16a0bd4ba21b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -108,7 +108,7 @@
       <name>long-clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>e4e70927-1f10-4761-bb67-01ad415cd85d</webElementGuid>
+      <webElementGuid>7eab7a6f-3e54-4e9b-95c9-61561057372a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -116,7 +116,7 @@
       <name>password</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>0eecd7b0-a859-456b-b347-4ffd6ab76333</webElementGuid>
+      <webElementGuid>1de0bb19-5948-4001-b6ac-e8bfc5d066f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -124,7 +124,7 @@
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>71b7262b-fbcb-4371-81e1-d7d7215509fc</webElementGuid>
+      <webElementGuid>7d9561ab-b826-4c70-b53a-2ffb5bcaa692</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -132,7 +132,7 @@
       <name>x</name>
       <type>Main</type>
       <value>918</value>
-      <webElementGuid>69c83717-9f9d-4ff2-aa0f-2da8b2495c0a</webElementGuid>
+      <webElementGuid>86201262-6b19-4169-b807-f8253775bb92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -140,7 +140,7 @@
       <name>y</name>
       <type>Main</type>
       <value>2270</value>
-      <webElementGuid>08fa65a8-fb8d-491f-a9c3-e9981f573bf3</webElementGuid>
+      <webElementGuid>4d9a30cc-0c92-4c78-a714-d8a7784eb249</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -148,7 +148,7 @@
       <name>width</name>
       <type>Main</type>
       <value>107</value>
-      <webElementGuid>3ab5de41-f2a1-4932-808d-cb229a0dda50</webElementGuid>
+      <webElementGuid>6774e92c-a4bc-42b5-96c4-6e14efc71fc1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -156,7 +156,7 @@
       <name>height</name>
       <type>Main</type>
       <value>115</value>
-      <webElementGuid>b4cedbc5-abdd-4fe5-8fab-369eb15fafcb</webElementGuid>
+      <webElementGuid>8eeb1a0a-2a68-49e1-8e59-c8ea806a20a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -164,7 +164,7 @@
       <name>bounds</name>
       <type>Main</type>
       <value>[918,2270][1025,2385]</value>
-      <webElementGuid>c75b32fd-10b5-4553-8637-6d2bf7a47a04</webElementGuid>
+      <webElementGuid>7839ed74-ce51-45bb-a0eb-9ba3d0ab9d33</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -172,7 +172,7 @@
       <name>displayed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>c6ec4fb6-6cae-4c83-b58b-9a20e3838e87</webElementGuid>
+      <webElementGuid>d36ed954-11d9-4a92-8cf3-8fb4b26b1976</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -180,7 +180,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[2]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[5]/android.widget.TextView[1]</value>
-      <webElementGuid>d6bdc79b-6c2f-49db-993f-48e855d8e121</webElementGuid>
+      <webElementGuid>f5887156-9517-41ce-9c7c-9b16b6345a54</webElementGuid>
    </webElementProperties>
    <locator>//*[@class = 'android.widget.TextView' and (@text = 'Profile' or . = 'Profile') and @resource-id = 'com.easypay.shop:id/tv_me']</locator>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>
