@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>woith invalid otp</name>
+   <name>with invalid otp</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>9f3435d3-c31b-4e29-9dab-0fc43c32f679</testCaseGuid>
